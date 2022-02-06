@@ -1,0 +1,14 @@
+body {
+    margin: 0;
+}
+h1 {
+    text-align: center;
+    margin: 1em;
+}
+.wrapper {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+.CodeMirror {
+    height: 100vh;
+}
